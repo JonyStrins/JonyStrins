@@ -66,8 +66,8 @@ Enfoque profesional:
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&hide_border=true" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&hide_border=true" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=JonyStrins&show_icons=true&hide_border=true" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonyStrins&layout=compact&hide_border=true" height="150">
 </p>
 
 ---
