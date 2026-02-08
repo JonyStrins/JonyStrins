@@ -27,30 +27,30 @@ Enfoque profesional:
 ## Tech Stack
 
 ### Frontend
-- React
-- React Native
-- JavaScript (ES6+)
-- HTML5
-- CSS3
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react)
+![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3)
 
-### Backend & General Programming
-- PHP
-- Java
-- Kotlin
-- C++
-- C#
-- .NET (bases)
+### Backend & Languages
+![PHP](https://img.shields.io/badge/PHP-20232A?style=for-the-badge&logo=php)
+![Java](https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=java)
+![Kotlin](https://img.shields.io/badge/Kotlin-20232A?style=for-the-badge&logo=kotlin)
+![C++](https://img.shields.io/badge/C++-20232A?style=for-the-badge&logo=cplusplus)
+![C#](https://img.shields.io/badge/C%23-20232A?style=for-the-badge&logo=csharp)
+![.NET](https://img.shields.io/badge/.NET-20232A?style=for-the-badge&logo=dotnet)
 
 ### Databases
-- MySQL
-- PostgreSQL
-- SQL Server
-- SQLite
+![MySQL](https://img.shields.io/badge/MySQL-20232A?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-20232A?style=for-the-badge&logo=postgresql)
+![SQL Server](https://img.shields.io/badge/SQL_Server-20232A?style=for-the-badge&logo=microsoftsqlserver)
+![SQLite](https://img.shields.io/badge/SQLite-20232A?style=for-the-badge&logo=sqlite)
 
 ### Tools
-- Git / GitHub
-- VS Code
-- Excel (Data Analysis & Auditing)
+![Git](https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-20232A?style=for-the-badge&logo=visualstudiocode)
 
 ---
 
@@ -60,15 +60,6 @@ Enfoque profesional:
 - Performance Optimization in Frontend Applications
 - Full-Stack Integration Patterns
 - Building production-ready applications
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JonyStrins&show_icons=true&hide_border=true" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonyStrins&layout=compact&hide_border=true" height="150">
-</p>
 
 ---
 
